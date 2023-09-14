@@ -5,3 +5,6 @@
 - :writing_hand: I'm currently learning many things in development, I aim to master this module.
 - 👯 I’m looking to collaborate on many projects to see all the methodoly development in the world
 - 📫 How to reach me: fetrarakoto20@gmail.com
+
+
+      ""It would be an honor to work alongside you""
